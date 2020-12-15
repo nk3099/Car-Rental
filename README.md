@@ -1,3 +1,2 @@
-# online-cab-booking-system-in-php
+# car-rental project.
 
-kindy before proceeding futher extract images.zip on the same folder.
